@@ -1,5 +1,6 @@
 # Star Battle Reloaded - patch notes
 
+* [Patch 4.3](patch/v4.3.md) - 2021-12-25
 * [Patch 4.2](patch/v4.2.md) - 2021-11-15
 * [Patch 4.1](patch/v4.1.md) - 2021-11-02
 * [Patch 4.0](patch/v4.0.md) - 2021-10-29
