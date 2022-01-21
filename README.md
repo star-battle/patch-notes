@@ -1,4 +1,10 @@
-# Star Battle Reloaded - patch notes
+# Star Battle Reloaded
+
+[![Discord](https://img.shields.io/discord/933608735937556481?label=SBR%20Discord%20Server&style=plastic)](https://discord.gg/8pNrrM6JMF)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T55HLAI)
+
+# Patch notes
 
 * [Patch 4.4](patch/v4.4.md) - 2022-01-21
 * [Patch 4.3](patch/v4.3.md) - 2021-12-25
