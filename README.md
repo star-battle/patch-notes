@@ -6,6 +6,7 @@
 
 # Patch notes
 
+* [Patch 4.5](patch/v4.5.md) - 2022-01-26
 * [Patch 4.4](patch/v4.4.md) - 2022-01-21
 * [Patch 4.3](patch/v4.3.md) - 2021-12-25
 * [Patch 4.2](patch/v4.2.md) - 2021-11-15
