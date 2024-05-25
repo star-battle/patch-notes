@@ -4,8 +4,9 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T55HLAI)
 
-# Patch notes
+## Patch notes
 
+* [Patch 4.8](patch/v4.8.md) - 2024-05-25
 * [Patch 4.7](patch/v4.7.md) - 2022-02-15
 * [Patch 4.6](patch/v4.6.md) - 2022-02-06
 * [Patch 4.5](patch/v4.5.md) - 2022-01-26
